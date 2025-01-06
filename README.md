@@ -1,6 +1,6 @@
 <h1 align="center">NorthCode Sentence Structure Analyzer</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99fe7949-4d61-4c65-a979-62de7f7e2988" alt="NorthCode Logo" width="400" />
+  <img src="https://github.com/user-attachments/assets/6d9f76df-d7f6-4410-a5da-5a95691202a0" alt="NorthCode Logo" width="400" />
 </p>
 
 ## Table of Contents
@@ -12,7 +12,6 @@
 6. [Documentation](#documentation)
 
 ---
-
 
 ## About the Project
 NorthCode is a C++ program that analyzes sentence structure. It is designed to be simple, helpful, and easy to use.
