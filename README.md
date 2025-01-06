@@ -1,6 +1,6 @@
 <!-- Snow/Wave Top -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/XXXXXXX/snow_waves_top.gif](https://github.com/ILLalev22/ILLalev22-my-first-repo/blob/main/Untitled%20design.gif)" alt="Snow Waves Top" width="100%" />
+  <img src="![Untitled design](https://github.com/user-attachments/assets/3e2b0f9a-4f52-4f7c-99a5-f97e59052f62)" alt="Snow Waves Top" width="100%" />
 </p>
 <p align="center">
 # NorthCode – Sentence Structure Analyzer
