@@ -1,6 +1,6 @@
-<h1 align="center">NorthCode – Sentence Structure Analyzer</h1>
+<h1 align="center">NorthCode Sentence Structure Analyzer</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e4571091-c350-48f3-9e1c-84668bb663af" alt="NorthCode Logo" width="400" />
+  <img src="https://github.com/user-attachments/assets/99fe7949-4d61-4c65-a979-62de7f7e2988" alt="NorthCode Logo" width="400" />
 </p>
 
 ## Table of Contents
