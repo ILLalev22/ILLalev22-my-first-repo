@@ -13,6 +13,7 @@
 
 ---
 
+
 ## About the Project
 NorthCode is a C++ program that analyzes sentence structure. It is designed to be simple, helpful, and easy to use.
 
@@ -95,5 +96,5 @@ Email: AAPopova22@codingburgas.bg
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e2b0f9a-4f52-4f7c-99a5-f97e59052f62" alt="Snow Waves Top" width="100%" />
+  <img src="https://github.com/user-attachments/assets/062bbe4e-a37d-4ec0-944b-b0625bf66966" alt="Snow Waves Top" width="100%" />
 </p>
