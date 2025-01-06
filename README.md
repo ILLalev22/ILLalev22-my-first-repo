@@ -1,3 +1,7 @@
+<!-- ──────────────────────────────────────────────────────────────────────────── -->
+<!--                               NorthCode README                            -->
+<!-- ──────────────────────────────────────────────────────────────────────────── -->
+
 <div align="center" style="background-color: #2f3a4b; border-radius: 8px; padding: 20px;">
   <h1 style="color: #ffffff; margin: 0;">NorthCode</h1>
 </div>
