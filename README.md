@@ -1,31 +1,41 @@
-<h1 align="center">NorthCode Sentence Structure Analyzer</h1>
+<!-- Snow/Wave Top -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/062bbe4e-a37d-4ec0-944b-b0625bf66966" alt="Snow Waves Top" width="100%" />
+</p>
+
+<!-- Main Title as a fancy shield -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/NorthCode%20Sentence%20Structure%20Analyzer-2E86C1?style=for-the-badge&logo=apachespark&logoColor=white" alt="NorthCode Sentence Structure Analyzer" />
+</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6d9f76df-d7f6-4410-a5da-5a95691202a0" alt="NorthCode Logo" width="400" />
 </p>
 
-## Table of Contents
-1. [About the Project](#about-the-project)
-2. [Core Functionality](#core-functionality)
-3. [Used Technologies](#used-technologies)
-4. [Contributors](#contributors)
-5. [Screenshots](#screenshots)
-6. [Documentation](#documentation)
-
----
-
-<!-- 'About the Project' as a shield -->
-<h2 align="center" id="about-the-project">
-  <img src="https://img.shields.io/badge/About%20the%20Project-2E86C1?style=for-the-badge&logoColor=white" alt="About the Project" />
+<!-- Table of Contents as a fancy shield -->
+<h2 align="center" id="table-of-contents">
+  <img src="https://img.shields.io/badge/Table%20of%20Contents-2E86C1?style=for-the-badge&logoColor=white" alt="Table of Contents" />
 </h2>
 
-<p>  
-NorthCode is a C++ program that analyzes sentence structure. It is designed to be simple, helpful, and easy to use.
+<p align="center">
+  1. <a href="#about-the-project">About the Project</a><br/>
+  2. <a href="#core-functionality">Core Functionality</a><br/>
+  3. <a href="#used-technologies">Used Technologies</a><br/>
+  4. <a href="#contributors">Contributors</a><br/>
+  5. <a href="#screenshots">Screenshots</a><br/>
+  6. <a href="#documentation">Documentation</a>
 </p>
 
 ---
 
-<!-- 'Core Functionality' as a shield -->
+<h2 align="center" id="about-the-project">
+  <img src="https://img.shields.io/badge/About%20the%20Project-2E86C1?style=for-the-badge&logoColor=white" alt="About the Project" />
+</h2>
+
+NorthCode is a C++ program that analyzes sentence structure. It is designed to be simple, helpful, and easy to use.
+
+---
+
 <h2 align="center" id="core-functionality">
   <img src="https://img.shields.io/badge/Core%20Functionality-2E86C1?style=for-the-badge&logoColor=white" alt="Core Functionality" />
 </h2>
@@ -34,11 +44,10 @@ NorthCode is a C++ program that analyzes sentence structure. It is designed to b
 - **Theme selection**: Switch between dark and light themes.  
 - **Font customization**: Adjust text size to your preference.  
 - **Save & Load chats**: Keep track of previous analyses.  
-- **Clean interface**: Uses a clean design to ensure a professional look.
+- **Clean interface**: Uses a clean design for a professional look.
 
 ---
 
-<!-- 'Used Technologies' as a shield -->
 <h2 align="center" id="used-technologies">
   <img src="https://img.shields.io/badge/Used%20Technologies-2E86C1?style=for-the-badge&logoColor=white" alt="Used Technologies" />
 </h2>
@@ -72,7 +81,6 @@ NorthCode is a C++ program that analyzes sentence structure. It is designed to b
 
 ---
 
-<!-- 'Contributors' as a shield -->
 <h2 align="center" id="contributors">
   <img src="https://img.shields.io/badge/Contributors-2E86C1?style=for-the-badge&logoColor=white" alt="Contributors" />
 </h2>
@@ -88,7 +96,6 @@ Email: AAPopova22@codingburgas.bg
 
 ---
 
-<!-- 'Screenshots' as a shield -->
 <h2 align="center" id="screenshots">
   <img src="https://img.shields.io/badge/Screenshots-2E86C1?style=for-the-badge&logoColor=white" alt="Screenshots" />
 </h2>
@@ -101,7 +108,6 @@ Email: AAPopova22@codingburgas.bg
 
 ---
 
-<!-- 'Documentation' as a shield -->
 <h2 align="center" id="documentation">
   <img src="https://img.shields.io/badge/Documentation-2E86C1?style=for-the-badge&logoColor=white" alt="Documentation" />
 </h2>
