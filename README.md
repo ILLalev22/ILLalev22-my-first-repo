@@ -1,4 +1,5 @@
 <h1 align="center">NorthCode Sentence Structure Analyzer</h1>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6d9f76df-d7f6-4410-a5da-5a95691202a0" alt="NorthCode Logo" width="400" />
 </p>
@@ -13,21 +14,34 @@
 
 ---
 
-## About the Project
+<!-- 'About the Project' as a shield -->
+<h2 align="center" id="about-the-project">
+  <img src="https://img.shields.io/badge/About%20the%20Project-2E86C1?style=for-the-badge&logoColor=white" alt="About the Project" />
+</h2>
+
+<p>  
 NorthCode is a C++ program that analyzes sentence structure. It is designed to be simple, helpful, and easy to use.
+</p>
 
 ---
 
-## Core Functionality
-- **Real-time analysis**: Type a sentence and see instant insights.
-- **Theme selection**: Switch between dark and light themes.
-- **Font customization**: Adjust text size to your preference.
-- **Save & Load chats**: Keep track of previous analyses.
-- **Clean interface**: Uses a clean design to ensure professional look.
+<!-- 'Core Functionality' as a shield -->
+<h2 align="center" id="core-functionality">
+  <img src="https://img.shields.io/badge/Core%20Functionality-2E86C1?style=for-the-badge&logoColor=white" alt="Core Functionality" />
+</h2>
+
+- **Real-time analysis**: Type a sentence and see instant insights.  
+- **Theme selection**: Switch between dark and light themes.  
+- **Font customization**: Adjust text size to your preference.  
+- **Save & Load chats**: Keep track of previous analyses.  
+- **Clean interface**: Uses a clean design to ensure a professional look.
 
 ---
 
-## Used Technologies
+<!-- 'Used Technologies' as a shield -->
+<h2 align="center" id="used-technologies">
+  <img src="https://img.shields.io/badge/Used%20Technologies-2E86C1?style=for-the-badge&logoColor=white" alt="Used Technologies" />
+</h2>
 
 <p align="center" style="margin: 15px 0;">
   <a href="https://bg.wikipedia.org/wiki/Microsoft_Visual_Studio" style="margin-right: 8px;">
@@ -58,7 +72,10 @@ NorthCode is a C++ program that analyzes sentence structure. It is designed to b
 
 ---
 
-## Contributors
+<!-- 'Contributors' as a shield -->
+<h2 align="center" id="contributors">
+  <img src="https://img.shields.io/badge/Contributors-2E86C1?style=for-the-badge&logoColor=white" alt="Contributors" />
+</h2>
 
 **Daniela Stoilova** (Scrum Trainer)  
 Email: DDStoilova22@codingburgas.bg  
@@ -71,7 +88,10 @@ Email: AAPopova22@codingburgas.bg
 
 ---
 
-## Screenshots
+<!-- 'Screenshots' as a shield -->
+<h2 align="center" id="screenshots">
+  <img src="https://img.shields.io/badge/Screenshots-2E86C1?style=for-the-badge&logoColor=white" alt="Screenshots" />
+</h2>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/136a7eae-8da2-4e98-bf6b-b653ab98b8e6" width="350" />
@@ -81,7 +101,11 @@ Email: AAPopova22@codingburgas.bg
 
 ---
 
-## Documentation
+<!-- 'Documentation' as a shield -->
+<h2 align="center" id="documentation">
+  <img src="https://img.shields.io/badge/Documentation-2E86C1?style=for-the-badge&logoColor=white" alt="Documentation" />
+</h2>
+
 <p align="center">
   <a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/illalev22_codingburgas_bg/EffrrXzLJ2hOgmAHg_6xRQYBivN8WzvCgkbYasalYCdEyA?e=F1mMUg" style="text-decoration: none; margin-right: 20px;">
     <img src="https://img.shields.io/badge/Presentation-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Presentation" />
@@ -94,5 +118,5 @@ Email: AAPopova22@codingburgas.bg
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/062bbe4e-a37d-4ec0-944b-b0625bf66966" alt="Snow Waves Top" width="100%" />
+  <img src="https://github.com/user-attachments/assets/062bbe4e-a37d-4ec0-944b-b0625bf66966" alt="Snow Waves Bottom" width="100%" />
 </p>
