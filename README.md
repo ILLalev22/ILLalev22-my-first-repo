@@ -1,9 +1,3 @@
-<!-- Snow/Wave Top -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3e2b0f9a-4f52-4f7c-99a5-f97e59052f62" alt="Snow Waves Top" width="100%" />
-</p>
-
-<!-- Main Title & Logo -->
 <h1 align="center">NorthCode – Sentence Structure Analyzer</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e4571091-c350-48f3-9e1c-84668bb663af" alt="NorthCode Logo" width="400" />
@@ -100,7 +94,6 @@ Email: AAPopova22@codingburgas.bg
 
 ---
 
-<!-- Snow/Wave Bottom -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXXXX/snow_waves_bottom.gif" alt="Snow Waves Bottom" width="100%" />
+  <img src="https://github.com/user-attachments/assets/3e2b0f9a-4f52-4f7c-99a5-f97e59052f62" alt="Snow Waves Top" width="100%" />
 </p>
