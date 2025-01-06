@@ -19,11 +19,11 @@ NorthCode is a C++ program that analyzes sentence structure. It is designed to b
 ---
 
 ## Core Functionality
-- **Real-Time Analysis**: Type a sentence and see instant insights.
-- **Theme Selection**: Switch between dark and light themes.
-- **Font Customization**: Adjust text size to your preference.
-- **Save & Load Sessions**: Keep track of previous analyses.
-- **Clean Interface**: Uses a semi-transparent background for a professional look.
+- **Real-time analysis**: Type a sentence and see instant insights.
+- **Theme selection**: Switch between dark and light themes.
+- **Font customization**: Adjust text size to your preference.
+- **Save & Load chats**: Keep track of previous analyses.
+- **Clean interface**: Uses a clean design to ensure professional look.
 
 ---
 
@@ -63,10 +63,10 @@ NorthCode is a C++ program that analyzes sentence structure. It is designed to b
 **Daniela Stoilova** (Scrum Trainer)  
 Email: DDStoilova22@codingburgas.bg  
 
-**Ivaylo Lalev** (Front-End Developer)  
+**Ivaylo Lalev** (Front-End Developer/Back-End Developer)  
 Email: ILLalev22@codingburgas.bg  
 
-**Arina Popova** (Back-End Developer)  
+**Arina Popova** (Front-End Developer/Back-End Developer)  
 Email: AAPopova22@codingburgas.bg  
 
 ---
