@@ -69,6 +69,7 @@ Email: ILLalev22@codingburgas.bg
 **Arina Popova** (Back-End Developer)  
 Email: AAPopova22@codingburgas.bg  
 
+---
 
 ## Screenshots
 
@@ -78,6 +79,7 @@ Email: AAPopova22@codingburgas.bg
   <img src="https://github.com/user-attachments/assets/fa3ff92e-3a0d-4211-9c7e-4eeb3c0a554a" width="350" />
 </p>
 
+---
 
 ## Documentation
 
@@ -90,6 +92,7 @@ Email: AAPopova22@codingburgas.bg
   </a>
 </p>
 
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/062bbe4e-a37d-4ec0-944b-b0625bf66966" alt="Snow Waves Top" width="100%" />
