@@ -1,9 +1,3 @@
-<!-- Snow/Wave Top -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/062bbe4e-a37d-4ec0-944b-b0625bf66966" alt="Snow Waves Top" width="100%" />
-</p>
-
-<!-- Main Title as a fancy shield -->
 <h1 align="center">
   <img src="https://img.shields.io/badge/NorthCode%20Sentence%20Structure%20Analyzer-2E86C1?style=for-the-badge&logo=apachespark&logoColor=white" alt="NorthCode Sentence Structure Analyzer" />
 </h1>
@@ -12,7 +6,6 @@
   <img src="https://github.com/user-attachments/assets/6d9f76df-d7f6-4410-a5da-5a95691202a0" alt="NorthCode Logo" width="400" />
 </p>
 
-<!-- Table of Contents as a fancy shield -->
 <h2 align="center" id="table-of-contents">
   <img src="https://img.shields.io/badge/Table%20of%20Contents-2E86C1?style=for-the-badge&logoColor=white" alt="Table of Contents" />
 </h2>
