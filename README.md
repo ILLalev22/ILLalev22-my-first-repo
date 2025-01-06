@@ -1,10 +1,10 @@
 <!-- Snow/Wave Top -->
 <p align="center">
-  <img src="![Untitled design](https://github.com/user-attachments/assets/3e2b0f9a-4f52-4f7c-99a5-f97e59052f62)" alt="Snow Waves Top" width="100%" />
+  <img src="https://github.com/user-attachments/assets/3e2b0f9a-4f52-4f7c-99a5-f97e59052f62" alt="Snow Waves Top" width="100%" />
 </p>
-<p align="center">
-# NorthCode – Sentence Structure Analyzer
 
+<!-- Main Title & Logo -->
+<h1 align="center">NorthCode – Sentence Structure Analyzer</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e4571091-c350-48f3-9e1c-84668bb663af" alt="NorthCode Logo" width="400" />
 </p>
@@ -20,13 +20,13 @@
 ---
 
 ## About the Project
-NorthCode is a C++ program that analyzes sentence structure. It aims to be simple, helpful, and easy to use.
+NorthCode is a C++ program that analyzes sentence structure. It is designed to be simple, helpful, and easy to use.
 
 ---
 
 ## Core Functionality
 - **Real-Time Analysis**: Type a sentence and see instant insights.
-- **Theme Selection**: Switch between dark and light styles.
+- **Theme Selection**: Switch between dark and light themes.
 - **Font Customization**: Adjust text size to your preference.
 - **Save & Load Sessions**: Keep track of previous analyses.
 - **Clean Interface**: Uses a semi-transparent background for a professional look.
@@ -35,14 +35,32 @@ NorthCode is a C++ program that analyzes sentence structure. It aims to be simpl
 
 ## Used Technologies
 
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://bg.wikipedia.org/wiki/Microsoft_Visual_Studio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![MS Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
-[![MS Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Word)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://en.wikipedia.org/wiki/Figma)
-[![MS PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
-[![ImGui](https://img.shields.io/badge/ImGui-57616A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ocornut/imgui)
-[![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+<p align="center" style="margin: 15px 0;">
+  <a href="https://bg.wikipedia.org/wiki/Microsoft_Visual_Studio" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  </a>
+  <a href="https://github.com" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="MS Teams" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Word" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Figma" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_PowerPoint" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="MS PowerPoint" />
+  </a>
+  <a href="https://github.com/ocornut/imgui" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/ImGui-57616A?style=for-the-badge&logo=github&logoColor=white" alt="ImGui" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+</p>
 
 ---
 
@@ -63,6 +81,7 @@ Email: AAPopova22@codingburgas.bg
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/289715e4-6e22-400b-a4ae-b5f2e23d6b6f" width="350" />
+  &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/bf1b78e7-3553-4230-a481-192d9beb2c69" width="350" />
 </p>
 
@@ -71,11 +90,9 @@ Email: AAPopova22@codingburgas.bg
 ## Documentation
 
 <p align="center">
-  <!-- Buttons side by side -->
-  <a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/ddstoilova22_codingburgas_bg/EfZVGvCXj25EpKBqxNkk5FkB9NHh7QvfbeXYVrUcgNaLGw" style="text-decoration: none;">
+  <a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/ddstoilova22_codingburgas_bg/EfZVGvCXj25EpKBqxNkk5FkB9NHh7QvfbeXYVrUcgNaLGw" style="text-decoration: none; margin-right: 20px;">
     <img src="https://img.shields.io/badge/Presentation-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Presentation" />
   </a>
-  &nbsp;
   <a href="https://codingburgas-my.sharepoint.com/:w:/g/personal/aapopova22_codingburgas_bg/EfDeC32Rwf5JoZ2JZpTyTboB9B7IqbTx0x2zRcYmuVdxjA" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Documentation-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Documentation" />
   </a>
