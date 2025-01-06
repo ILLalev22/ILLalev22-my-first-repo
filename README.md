@@ -73,8 +73,9 @@ Email: AAPopova22@codingburgas.bg
 
 ## Screenshots
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/289715e4-6e22-400b-a4ae-b5f2e23d6b6f" width="350" />
+  <img src="https://github.com/user-attachments/assets/88d9ad33-2565-4c47-8cf4-17b92cd9a416" width="350" />
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/bf1b78e7-3553-4230-a481-192d9beb2c69" width="350" />
 </p>
