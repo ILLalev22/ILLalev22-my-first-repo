@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/XXXXXXX/snow_waves_top.gif" alt="Snow Waves Top" width="100%" />
 </p>
-
+<p align="center">
 # NorthCode – Sentence Structure Analyzer
 
 <p align="center">
